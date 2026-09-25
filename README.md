@@ -2,7 +2,7 @@
 
 # 💪 FitLog — Workout Library & Daily Plan Tracker
 
-[![Netlify Status](https://img.shields.io/badge/Deployed%20with-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://your-app-name.netlify.app)
+[![Netlify Status](https://img.shields.io/badge/Deployed%20with-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://b14-a6-fit-log.netlify.app/)
 [![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -12,7 +12,7 @@
   <strong>A premium, modern gym companion web application engineered for fitness enthusiasts to discover exercises, design daily workout routines with intelligent caps, and track sets in real-time.</strong>
 </p>
 
-[🌐 **Live Demo (Netlify)**](https://your-app-name.netlify.app) • [📁 **Explore Repository**](https://github.com/mdsiam2007/b14-a6-fit-log) • [🐛 **Report Bug**](https://github.com/mdsiam2007/b14-a6-fit-log/issues)
+[🌐 **Live Demo (Netlify)**](https://b14-a6-fit-log.netlify.app/) • [📁 **Explore Repository**](https://github.com/mdsiam2007/b14-a6-fit-log) • [🐛 **Report Bug**](https://github.com/mdsiam2007/b14-a6-fit-log/issues)
 
 </div>
 
@@ -74,7 +74,7 @@
 > [!NOTE]
 > Update the links below with your actual deployed Netlify URL and GitHub username.
 
-- **Live Application URL (Netlify):** [https://your-app-name.netlify.app](https://your-app-name.netlify.app)
+- **Live Application URL (Netlify):** [https://b14-a6-fit-log.netlify.app/](https://b14-a6-fit-log.netlify.app/)
 - **GitHub Source Code:** [https://github.com/mdsiam2007/b14-a6-fit-log](https://github.com/mdsiam2007/b14-a6-fit-log)
 
 ---
